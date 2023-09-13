@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 /**
- * File Name: Change.cs
+ * File Name: Program.cs
  *
  * Problem Statement: Write a program that determines the change to be dispensed 
  * from a vending machine. An item in the machine can cost between 25 cents and 
