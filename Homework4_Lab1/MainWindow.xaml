@@ -1,0 +1,21 @@
+﻿<Window x:Class="Homework4_Lab1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework4_Lab1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Grid>
+        <Label Content="Speed Limit (mph):" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="SpeedLimitTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,10,0,0" Width="200"/>
+
+        <Label Content="Your Speed (mph):" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+        <TextBox x:Name="YourSpeedTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,50,0,0" Width="200"/>
+
+        <Button Content="Calculate Fine" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,100,0,0" Width="200" Click="CalculateFine"/>
+
+        <Canvas x:Name="StatusCanvas" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,150,0,0" Width="360" Height="50"/>
+        <Label x:Name="StatusLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,210,0,0" Width="360" Height="50"/>
+    </Grid>
+</Window>
