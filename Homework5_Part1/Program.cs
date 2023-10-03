@@ -14,6 +14,7 @@ for (int i = 0; i < originalArray.Length; i++)
     copiedArray[i] = originalArray[i];
 }
 
+
 Console.WriteLine("Original array:");
 foreach (int item in originalArray)
 {
