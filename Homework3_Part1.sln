@@ -9,15 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabWeek4", "LabWeek4\LabWee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework3_Part2", "Homework3_Part2\Homework3_Part2.csproj", "{394064F8-FAAD-4428-BB13-06363E01D054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5_Part1", "Homework5_Part1\Homework5_Part1.csproj", "{603B25A4-4C4F-4F6A-BCAC-7492DC252897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework5_Part1", "Homework5_Part1\Homework5_Part1.csproj", "{603B25A4-4C4F-4F6A-BCAC-7492DC252897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5_Part2", "Homework5_Part2\Homework5_Part2.csproj", "{5915EA60-B678-41AA-B7A3-CED447568434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework5_Part2", "Homework5_Part2\Homework5_Part2.csproj", "{5915EA60-B678-41AA-B7A3-CED447568434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5_Lab1", "Homework5_Lab1\Homework5_Lab1.csproj", "{5FF6327C-2B79-4173-8C62-5B063908586F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework5_Lab1", "Homework5_Lab1\Homework5_Lab1.csproj", "{5FF6327C-2B79-4173-8C62-5B063908586F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6_Part1", "Homework6_Part1\Homework6_Part1.csproj", "{114FDF1F-24D0-4D97-9732-D05A66EC964D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework6_Part1", "Homework6_Part1\Homework6_Part1.csproj", "{114FDF1F-24D0-4D97-9732-D05A66EC964D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6_Lab1", "Homework6_Lab1\Homework6_Lab1.csproj", "{1BE9175C-9BEE-44F2-AA1E-82CFB4FB0216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework6_Lab1", "Homework6_Lab1\Homework6_Lab1.csproj", "{1BE9175C-9BEE-44F2-AA1E-82CFB4FB0216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework7_Part1", "Homework7_Part1\Homework7_Part1.csproj", "{ECB329F3-7615-41C0-B7A9-A3E5360285C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework7_Lab1", "Homework7_Lab1\Homework7_Lab1.csproj", "{55D5077A-7448-4218-954A-668E370E7329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{1BE9175C-9BEE-44F2-AA1E-82CFB4FB0216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE9175C-9BEE-44F2-AA1E-82CFB4FB0216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE9175C-9BEE-44F2-AA1E-82CFB4FB0216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB329F3-7615-41C0-B7A9-A3E5360285C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB329F3-7615-41C0-B7A9-A3E5360285C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB329F3-7615-41C0-B7A9-A3E5360285C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB329F3-7615-41C0-B7A9-A3E5360285C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D5077A-7448-4218-954A-668E370E7329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D5077A-7448-4218-954A-668E370E7329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D5077A-7448-4218-954A-668E370E7329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D5077A-7448-4218-954A-668E370E7329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
